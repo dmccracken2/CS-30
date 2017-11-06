@@ -1,0 +1,6 @@
+Josiah,Binnema,43211,24.65
+Richard,Funk,43212,25.15
+Yuri,Kisil,43213,22.11
+Penelope,Oleksiak,43214,25.49
+Kylie,Masse,43215,26.51
+Rebecca,Smith,43216,25.46
